@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author Ahmed Wagdy
+ * @brief   main program 
+ * @version 0.1
+ * @date 2023-04-01
+ *
+ * @copyright Copyright (c) 2024
+ *
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include "std_types.h"
@@ -53,7 +63,7 @@ int main() {
             // User menu
             printf("-------USER MENU-----\n");
             printf("1. View patient record. \n");
-            printf("2. View today’s reservations \n");
+            printf("2. View todayâ€™s reservations \n");
             printf("3. Return to Main Menu\n");
             printf("Enter your choice (1, 2, or 3): ");
         }
